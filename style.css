@@ -146,3 +146,5 @@ label {
   margin-right: 10px; /* Espacio entre las imágenes */
 }
 .footer {display: flex;}
+
+.greeting {text-align: center;}
